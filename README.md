@@ -1,4 +1,5 @@
 # presentaciones-equipo
+-Reyes: me gusta la programacion.
 
 Prueba de github
 - Victor: Me gusta la programacion en c++.
